@@ -14,7 +14,3 @@ Another simple tool, this one just helps with updating the xam executable.
 
 You can also specify a custom directory. \
 XamUpdater.exe (XexpFilePath) (ExtractDirectory)
-
-## Credits
-Heaventh - Created this tool. \
-xorloser - Created xextool.
